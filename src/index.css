@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+section {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+button {
+  padding: 5px 10px;
+  margin: 5px;
+}
